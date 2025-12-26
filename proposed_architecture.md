@@ -94,4 +94,4 @@ LLM Prompt → Answer Generation → Formatting → Output
 
 ## Future Enhancements
 - web app
-
+- support document upload from individual users
